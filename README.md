@@ -1,1 +1,1 @@
-# ad-jumpy-scare
+This project is a satire website. The landing page asks to turn on your adblocker and the next page is littered with ads. This shows experience with google adSense and google fonts

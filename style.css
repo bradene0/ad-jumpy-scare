@@ -2,11 +2,11 @@ body {
     background-color: white;
 
 }
+
 #landing {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    
+    padding: 10em;
 }
-
